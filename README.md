@@ -27,4 +27,5 @@ primeiro crie uma instancia no AuraDB, após isso abra o arquivo "tokens" e colo
 - [@ClaudioCarv](https://github.com/ClaudioCarv)
 - [@KMWhale](https://github.com/KMWhale)
 - [@matheusfrancisco1308-del](https://github.com/matheusfrancisco1308-del)
+- [@kev-ivek](https://github.com/kev-ivek)
 
